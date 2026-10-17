@@ -1,0 +1,850 @@
+{
+  "date": "2026-10-17",
+  "slot": "night",
+  "label": "晚上 · 坐下来拆解",
+  "generated_at": "2026-10-17T21:52:48.163193+08:00",
+  "enrich_mode": "llm",
+  "enough": true,
+  "count": 5,
+  "focus": [
+    "热点",
+    "技法",
+    "参考",
+    "趋势"
+  ],
+  "target_count": 5,
+  "slot_counts": {
+    "技法": 2,
+    "参考": 2,
+    "素材": 1
+  },
+  "missing_focus": [
+    "热点"
+  ],
+  "items": [
+    {
+      "id": "bili:BV1MjpR68EQG",
+      "origin": "search:skill:pubdate",
+      "title": "电梯运镜？一招教你拍出丝滑旅行 Vlog 转场！",
+      "url": "https://www.bilibili.com/video/BV1MjpR68EQG",
+      "author": "大疆OSMO",
+      "published_at": "2026-10-14T18:00:00+08:00",
+      "duration_sec": 19,
+      "stats": {
+        "play": 1756
+      },
+      "category": "极客DIY",
+      "cover": "//i0.hdslb.com/bfs/archive/f849a71fcbd06217e2b584d034a5a285f8dcd672.jpg",
+      "source_route": "temporal",
+      "matched_games": [],
+      "slot": "技法",
+      "freshness": "热点",
+      "labels": [
+        "适合学习"
+      ],
+      "quality_verified": true,
+      "days_old": 3,
+      "is_fresh": true,
+      "summary": "用手机稳定器演示电梯运镜实现丝滑转场。",
+      "basis": "标题含『电梯运镜』『丝滑旅行Vlog转场』，简介提到『模拟电梯向下运镜实现场景切换』，时长19秒",
+      "why": "短时长单点运镜演示可参考其『一个动作讲清一个转场』的结构，适合做卡点转场的素材化拆解",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": false,
+      "rank": 1
+    },
+    {
+      "id": "bili:BV1zt411L74P",
+      "origin": "search:skill:totalrank",
+      "title": "【杀手/高燃踩点向】我以自己的方式塑造这个世界，无论任何代价。",
+      "url": "https://www.bilibili.com/video/BV1zt411L74P",
+      "author": "卢登斯奥勒留塞里库斯",
+      "published_at": "2019-07-13T05:55:35+08:00",
+      "duration_sec": 202,
+      "stats": {
+        "play": 1105138
+      },
+      "category": "GMV",
+      "cover": "//i0.hdslb.com/bfs/archive/b52fcb8a776edb2079aae399136f4a0977724867.jpg",
+      "source_route": "ranked",
+      "matched_games": [],
+      "slot": "参考",
+      "freshness": "常青",
+      "labels": [
+        "创作参考",
+        "可用素材"
+      ],
+      "quality_verified": true,
+      "days_old": 2653,
+      "is_fresh": false,
+      "summary": "杀手游戏 CG 高燃踩点混剪",
+      "basis": "标题含『高燃踩点向』，标签含『GMV』『CG混剪』『燃向』，时长 202 秒，播放 110.5 万",
+      "why": "可参考『高燃踩点向』的标题定位，游戏二创可沿用这种情绪+技法的双关键词组合",
+      "feasible": "手机剪映可做",
+      "enriched_by": "llm",
+      "off_keyword": true,
+      "rank": 2
+    },
+    {
+      "id": "bili:BV1r3Jv6nE1P",
+      "origin": "search:skill:pubdate",
+      "title": "【PR转场】PR顶级转场预设！够你用一辈子的50个无缝丝滑转场预设！满足你99%的剪辑需求！",
+      "url": "https://www.bilibili.com/video/BV1r3Jv6nE1P",
+      "author": "LeoM",
+      "published_at": "2026-10-17T14:40:07+08:00",
+      "duration_sec": 107,
+      "stats": {
+        "play": 110
+      },
+      "category": "野生技能协会",
+      "cover": "//i2.hdslb.com/bfs/archive/65007d49b6d722f8d9e7222e6f48c2576fe418ef.jpg",
+      "source_route": "temporal",
+      "matched_games": [],
+      "slot": "素材",
+      "freshness": "热点",
+      "labels": [
+        "适合学习",
+        "创作参考",
+        "可用素材"
+      ],
+      "quality_verified": false,
+      "days_old": 0,
+      "is_fresh": true,
+      "summary": "分享50个PR无缝丝滑转场预设资源。",
+      "basis": "标题含『PR顶级转场预设』『50个无缝丝滑转场预设』，标签挂『转场预设』『pr插件』『卡点』",
+      "why": "预设类资源偏PR生态，剪映创作者可参考其转场分类思路，但需另找剪映可用的转场模板",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": false,
+      "rank": 3
+    },
+    {
+      "id": "bili:BV1b3411V7Uk",
+      "origin": "search:skill:totalrank",
+      "title": "【电影级转场全收录】技巧转场篇",
+      "url": "https://www.bilibili.com/video/BV1b3411V7Uk",
+      "author": "无极恋画-战略编导",
+      "published_at": "2022-05-27T16:35:26+08:00",
+      "duration_sec": 532,
+      "stats": {
+        "play": 93657
+      },
+      "category": "野生技能协会",
+      "cover": "//i1.hdslb.com/bfs/archive/2d52db0698252dd9bea4a69b98cc070da437e9c6.jpg",
+      "source_route": "ranked",
+      "matched_games": [],
+      "slot": "技法",
+      "freshness": "常青",
+      "labels": [
+        "适合学习"
+      ],
+      "quality_verified": true,
+      "days_old": 1604,
+      "is_fresh": false,
+      "summary": "系统讲解电影级技巧转场的原理与用法合集",
+      "basis": "标题『电影级转场全收录』『技巧转场篇』，标签含『技巧转场』『转场』『视听语言』，时长532秒，播放9.3万",
+      "why": "可参考其按转场类型分类的讲解结构，把『技巧转场』拆成可套用的转场清单，用于二创里衔接不同场景",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": false,
+      "rank": 4
+    },
+    {
+      "id": "bili:BV1wW411u7f1",
+      "origin": "search:skill:totalrank",
+      "title": "【血源诅咒/全程高燃】吾身地狱，死亡即是开始「NamEn1」",
+      "url": "https://www.bilibili.com/video/BV1wW411u7f1",
+      "author": "名字君Montage",
+      "published_at": "2018-03-29T11:45:56+08:00",
+      "duration_sec": 191,
+      "stats": {
+        "play": 1669505
+      },
+      "category": "GMV",
+      "cover": "//i2.hdslb.com/bfs/archive/4cc9ab413b0cf8863a0cd8d968bd1b78f7d2559f.jpg",
+      "source_route": "ranked",
+      "matched_games": [],
+      "slot": "参考",
+      "freshness": "常青",
+      "labels": [
+        "创作参考",
+        "可用素材"
+      ],
+      "quality_verified": true,
+      "days_old": 3124,
+      "is_fresh": false,
+      "summary": "血源诅咒高燃向混剪GMV作品",
+      "basis": "标题『【血源诅咒/全程高燃】』，标签含『燃向』『混剪』『GMV』，简介列出BGM『Blood and Stone（含剪辑修改）』，时长191秒，播放166.9万",
+      "why": "高播放燃向混剪可拆解其BGM与画面节奏的配合方式，『含剪辑修改』说明对原曲做过卡点处理，可参考这种改曲踩点思路",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": true,
+      "rank": 5
+    }
+  ],
+  "pool": [
+    {
+      "id": "bili:BV1k3eq6FEHK",
+      "origin": "search:game:pubdate",
+      "title": "别划走！⚡鸣潮丝滑卡点剪辑⚡",
+      "url": "https://www.bilibili.com/video/BV1k3eq6FEHK",
+      "author": "호떡柚子茶",
+      "published_at": "2026-09-20T17:30:31+08:00",
+      "duration_sec": 49,
+      "stats": {
+        "play": 42
+      },
+      "category": "日常",
+      "cover": "//i2.hdslb.com/bfs/archive/228019d5403bf18b43e46621c635c62fbbe9bf01.jpg",
+      "source_route": "temporal",
+      "matched_games": [
+        "鸣潮"
+      ],
+      "slot": "参考",
+      "freshness": "常青",
+      "labels": [
+        "创作参考"
+      ],
+      "quality_verified": false,
+      "days_old": 27,
+      "is_fresh": false,
+      "summary": "鸣潮战斗场景丝滑卡点混剪，强调打击与节拍同步。",
+      "basis": "标题含『鸣潮丝滑卡点剪辑』，标签挂『鸣潮创作激励计划』『混剪』『MAD』，简介写『Every strike hits right on the beat』，时长49秒",
+      "why": "简介点明『打击与节拍同步』的思路，可试试把战斗命中帧对齐鼓点重音，作为卡点二创的核心手法",
+      "feasible": "手机剪映可做",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV1LAJi61Epq",
+      "origin": "search:skill:pubdate",
+      "title": "【ae】丝滑的无缝转场动效",
+      "url": "https://www.bilibili.com/video/BV1LAJi61Epq",
+      "author": "后期狮Lion",
+      "published_at": "2026-10-17T21:41:13+08:00",
+      "duration_sec": 209,
+      "stats": {
+        "play": 10
+      },
+      "category": "MMD·3D",
+      "cover": "//i2.hdslb.com/bfs/archive/a66cbbaa30e9e17e94be744e8ee223b2323acf94.jpg",
+      "source_route": "temporal",
+      "matched_games": [],
+      "slot": "技法",
+      "freshness": "热点",
+      "labels": [
+        "适合学习"
+      ],
+      "quality_verified": false,
+      "days_old": 0,
+      "is_fresh": true,
+      "summary": "AE无缝转场动效教程",
+      "basis": "标题含『【ae】丝滑的无缝转场动效』；标签『AE特效』『AE』『教程』『动效』；时长209秒",
+      "why": "转场思路可借鉴，但AE工程需电脑；可试试把无缝转场概念用剪映转场+遮罩近似实现",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV1KE411x79k",
+      "origin": "search:skill:totalrank",
+      "title": "如何正确有效的给音乐卡点—音乐卡点原理",
+      "url": "https://www.bilibili.com/video/BV1KE411x79k",
+      "author": "笨小孩的成长手册",
+      "published_at": "2020-03-05T18:26:06+08:00",
+      "duration_sec": 1603,
+      "stats": {
+        "play": 13737
+      },
+      "category": "影视剪辑",
+      "cover": "//i0.hdslb.com/bfs/archive/8d0560c58c4b83c924249b9703be9ad838ae258f.jpg",
+      "source_route": "ranked",
+      "matched_games": [],
+      "slot": "技法",
+      "freshness": "常青",
+      "labels": [
+        "适合学习",
+        "创作参考"
+      ],
+      "quality_verified": true,
+      "days_old": 2417,
+      "is_fresh": false,
+      "summary": "系统讲解音乐卡点的原理，帮助理解节奏与画面的对应关系。",
+      "basis": "标题含『如何正确有效的给音乐卡点』『音乐卡点原理』，标签挂『卡点教程』『音乐卡点』，时长1603秒",
+      "why": "原理类长视频适合做『先讲节拍分层再演示』的结构，可参考其把『原理』写进标题的做法，提升教程可信度",
+      "feasible": "手机剪映可做",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV1DBJt6UEyN",
+      "origin": "search:skill:pubdate",
+      "title": "转场动画",
+      "url": "https://www.bilibili.com/video/BV1DBJt6UEyN",
+      "author": "AA祈风呀",
+      "published_at": "2026-10-16T20:30:07+08:00",
+      "duration_sec": 24,
+      "stats": {
+        "play": 136
+      },
+      "category": "日常",
+      "cover": "//i2.hdslb.com/bfs/archive/38bc89f0cc32bbea701bc3377eb2e9e004dd7227.jpg",
+      "source_route": "temporal",
+      "matched_games": [],
+      "slot": "参考",
+      "freshness": "热点",
+      "labels": [
+        "适合学习"
+      ],
+      "quality_verified": false,
+      "days_old": 1,
+      "is_fresh": true,
+      "summary": "一条展示转场动画的短剪辑",
+      "basis": "标题『转场动画』，标签『剪辑』『剪辑技巧』『剪辑教程』，时长24秒，简介为空",
+      "why": "信息量太少，只能作为转场效果短片的选题形式参考，具体手法无法判断",
+      "feasible": "不确定",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV1zsWF6bEM2",
+      "origin": "search:skill:pubdate",
+      "title": "Premiere新版转场有多强？四种创意转场一拖就搞定",
+      "url": "https://www.bilibili.com/video/BV1zsWF6bEM2",
+      "author": "棋哥资源库188",
+      "published_at": "2026-10-13T05:15:03+08:00",
+      "duration_sec": 501,
+      "stats": {
+        "play": 13
+      },
+      "category": "野生技能协会",
+      "cover": "//i0.hdslb.com/bfs/archive/3bd8ea12a69ec3b95fd0bc0962f65210e2e8a898.jpg",
+      "source_route": "temporal",
+      "matched_games": [],
+      "slot": "技法",
+      "freshness": "热点",
+      "labels": [
+        "适合学习",
+        "可用素材",
+        "时效动态"
+      ],
+      "quality_verified": false,
+      "days_old": 4,
+      "is_fresh": true,
+      "summary": "介绍 Premiere 新版四种创意转场的添加方法",
+      "basis": "标题含『Premiere新版转场』『四种创意转场一拖就搞定』，标签含『转场教程』『Premiere Pro』，时长 501 秒",
+      "why": "可参考其『一拖就搞定』的低门槛表述，把转场教程包装成省时卖点，套用到剪映转场选题",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV18Ppz6pEUa",
+      "origin": "search:skill:pubdate",
+      "title": "剪辑新手必看：一招搞定擦除转场",
+      "url": "https://www.bilibili.com/video/BV18Ppz6pEUa",
+      "author": "棋哥资源库188",
+      "published_at": "2026-10-14T01:25:58+08:00",
+      "duration_sec": 76,
+      "stats": {
+        "play": 10
+      },
+      "category": "野生技能协会",
+      "cover": "//i1.hdslb.com/bfs/archive/89748f05c5cc5c359e6393c475a1d493e24dab77.jpg",
+      "source_route": "temporal",
+      "matched_games": [],
+      "slot": "技法",
+      "freshness": "热点",
+      "labels": [
+        "适合学习",
+        "可用素材"
+      ],
+      "quality_verified": false,
+      "days_old": 3,
+      "is_fresh": true,
+      "summary": "教新手用效果控件做黑白转彩色的擦除转场",
+      "basis": "标题含『一招搞定擦除转场』『剪辑新手必看』，标签含『擦除转场』『黑白转彩色』，时长 76 秒",
+      "why": "可试试把『黑白转彩色』作为转场钩子，用短时长单技法结构做剪映擦除转场教学",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV12sHheCEK5",
+      "origin": "search:skill:pubdate",
+      "title": "真正的意志是不会被击败的！——燃向混剪",
+      "url": "https://www.bilibili.com/video/BV12sHheCEK5",
+      "author": "魏泯同学",
+      "published_at": "2024-09-04T18:00:00+08:00",
+      "duration_sec": 93,
+      "stats": {
+        "play": 255
+      },
+      "category": "影视剪辑",
+      "cover": "//i1.hdslb.com/bfs/archive/c135e78308a6567e3e59303809282a10d7354cad.jpg",
+      "source_route": "temporal",
+      "matched_games": [],
+      "slot": "参考",
+      "freshness": "常青",
+      "labels": [
+        "适合学习",
+        "创作参考",
+        "可用素材"
+      ],
+      "quality_verified": false,
+      "days_old": 773,
+      "is_fresh": false,
+      "summary": "燃向卡点混剪，附音效遮幅过渡字幕鼓点等制作要素",
+      "basis": "标题含『燃向混剪』，标签含『卡点混剪技巧』『踩点』『高燃混剪』，简介列『音效、遮幅、过渡、字幕、鼓点、情绪』，时长 93 秒",
+      "why": "可参考简介里把音效/遮幅/鼓点拆成要素清单的写法，做卡点混剪时按要素分步自检",
+      "feasible": "手机剪映可做",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV1XhJv6qEqh",
+      "origin": "search:skill:pubdate",
+      "title": "【PR转场】50组丝滑无缝转场预设！后期大佬都在用，搞定 99% 剪辑画面",
+      "url": "https://www.bilibili.com/video/BV1XhJv6qEqh",
+      "author": "大熊不会剪辑",
+      "published_at": "2026-10-17T14:03:40+08:00",
+      "duration_sec": 102,
+      "stats": {
+        "play": 105
+      },
+      "category": "野生技能协会",
+      "cover": "//i2.hdslb.com/bfs/archive/5e258bb7fac1c502d88bbaa21666ee254a294248.jpg",
+      "source_route": "temporal",
+      "matched_games": [],
+      "slot": "素材",
+      "freshness": "热点",
+      "labels": [
+        "适合学习",
+        "可用素材"
+      ],
+      "quality_verified": false,
+      "days_old": 0,
+      "is_fresh": true,
+      "summary": "介绍50组PR无缝转场预设，用于快速完成剪辑画面过渡。",
+      "basis": "标题含『PR转场』『50组丝滑无缝转场预设』，标签挂『PR预设』『无缝转场』，时长102秒",
+      "why": "预设包类内容适合做『资源盘点+效果演示』结构，可参考其把数量词放标题前的写法，但PR预设需转成剪映可用的思路",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV1cY411j7wk",
+      "origin": "search:skill:totalrank",
+      "title": "【拉片系列】快节奏广告是如何营造“节奏”的",
+      "url": "https://www.bilibili.com/video/BV1cY411j7wk",
+      "author": "阿次的寶藏片場",
+      "published_at": "2022-04-12T18:00:00+08:00",
+      "duration_sec": 387,
+      "stats": {
+        "play": 99613
+      },
+      "category": "野生技能协会",
+      "cover": "//i0.hdslb.com/bfs/archive/6685887d8c0269b915c065494bf0c8cc4d15e5b9.jpg",
+      "source_route": "ranked",
+      "matched_games": [],
+      "slot": "技法",
+      "freshness": "常青",
+      "labels": [
+        "适合学习"
+      ],
+      "quality_verified": true,
+      "days_old": 1649,
+      "is_fresh": false,
+      "summary": "通过拉片分析快节奏广告如何营造节奏感。",
+      "basis": "标题：【拉片系列】快节奏广告是如何营造“节奏”的；播放 99,613；时长 387 秒",
+      "why": "拉片式拆解可迁移到二创节奏分析，可试试用『逐段拆节奏点』的结构讲卡点逻辑，比单纯展示成品更有信息量",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": true
+    },
+    {
+      "id": "bili:BV17rp16HEoQ",
+      "origin": "search:skill:pubdate",
+      "title": "超有趣的树叶转场效果，今天一个视频教会你。 #摄影技巧 #摄影教学 #教程分享",
+      "url": "https://www.bilibili.com/video/BV17rp16HEoQ",
+      "author": "东方的阳",
+      "published_at": "2026-10-14T19:42:36+08:00",
+      "duration_sec": 36,
+      "stats": {
+        "play": 190
+      },
+      "category": "汽车生活",
+      "cover": "//i0.hdslb.com/bfs/archive/6d4eb37a0544b6c511b16f75c1b078876260b4d5.jpg",
+      "source_route": "temporal",
+      "matched_games": [],
+      "slot": "技法",
+      "freshness": "热点",
+      "labels": [
+        "适合学习"
+      ],
+      "quality_verified": false,
+      "days_old": 3,
+      "is_fresh": true,
+      "summary": "一条树叶转场效果的短教程",
+      "basis": "标题『超有趣的树叶转场效果，今天一个视频教会你』，标签『教程』『教程分享』，时长36秒，播放190",
+      "why": "『一个视频教会你』的短教程形式可参考，但树叶转场偏实拍，迁移到二游剪辑需自行改造",
+      "feasible": "不确定",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV1ee41137W9",
+      "origin": "search:skill:totalrank",
+      "title": "[Vicco] 达芬奇官方转场是鸡肋? | 玩转官方转场基础和技巧",
+      "url": "https://www.bilibili.com/video/BV1ee41137W9",
+      "author": "ViccoVlog",
+      "published_at": "2022-09-09T16:53:50+08:00",
+      "duration_sec": 370,
+      "stats": {
+        "play": 59673
+      },
+      "category": "野生技能协会",
+      "cover": "//i0.hdslb.com/bfs/archive/2a8a34979067136fa2e58482a4b40f25a6669238.jpg",
+      "source_route": "ranked",
+      "matched_games": [],
+      "slot": "技法",
+      "freshness": "常青",
+      "labels": [
+        "适合学习",
+        "可用素材"
+      ],
+      "quality_verified": true,
+      "days_old": 1499,
+      "is_fresh": false,
+      "summary": "达芬奇官方自带转场的基础与技巧讲解",
+      "basis": "标题『达芬奇官方转场是鸡肋? | 玩转官方转场基础和技巧』，标签含『达芬奇』『转场』『缓动』，时长370秒，播放5.9万",
+      "why": "『官方转场是否鸡肋』的质疑式标题可借鉴，转场原理讲解对理解卡点转场有帮助，但工具是达芬奇非剪映",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV1864y1b79Q",
+      "origin": "search:skill:totalrank",
+      "title": "【PR教程】新手村！新手必学的七个大转场，神级转场第一步学会转场原理！",
+      "url": "https://www.bilibili.com/video/BV1864y1b79Q",
+      "author": "comfyui整合包_",
+      "published_at": "2021-07-02T21:45:25+08:00",
+      "duration_sec": 1593,
+      "stats": {
+        "play": 56367
+      },
+      "category": "野生技能协会",
+      "cover": "//i1.hdslb.com/bfs/archive/321d7f7c47d579993d52ebf2c0d3e3368c16ebec.png",
+      "source_route": "ranked",
+      "matched_games": [],
+      "slot": "技法",
+      "freshness": "常青",
+      "labels": [
+        "适合学习",
+        "可用素材"
+      ],
+      "quality_verified": true,
+      "days_old": 1933,
+      "is_fresh": false,
+      "summary": "PR新手必学的七个转场原理教程",
+      "basis": "标题：【PR教程】新手村！新手必学的七个大转场，神级转场第一步学会转场原理！；播放 56,367；时长 1593 秒",
+      "why": "『先学原理再学转场』的教学逻辑可参考，数字清单式标题适合做转场系列选题，但PR操作需转译到剪映",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV1vzJC6PEsP",
+      "origin": "search:skill:pubdate",
+      "title": "这个闪身步转场AI教程不烧心，3步教会你，新手也能轻松上手！",
+      "url": "https://www.bilibili.com/video/BV1vzJC6PEsP",
+      "author": "XX设计师a",
+      "published_at": "2026-10-15T11:50:13+08:00",
+      "duration_sec": 46,
+      "stats": {
+        "play": 164
+      },
+      "category": "日常",
+      "cover": "//i2.hdslb.com/bfs/archive/c8f03f984c0ad8d98932c4059cb4256dddf889c8.jpg",
+      "source_route": "temporal",
+      "matched_games": [],
+      "slot": "技法",
+      "freshness": "热点",
+      "labels": [
+        "适合学习"
+      ],
+      "quality_verified": false,
+      "days_old": 2,
+      "is_fresh": true,
+      "summary": "用AI工具3步做闪身步转场效果。",
+      "basis": "标题含『闪身步转场AI教程』『3步教会你』，标签挂『AIGC』『AI教程』，时长46秒",
+      "why": "AI生成类转场与剪映实拍转场路径不同，可参考其『3步』结构，但需判断能否用剪映关键帧替代",
+      "feasible": "不确定",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV1txfWBfExX",
+      "origin": "search:skill:totalrank",
+      "title": "[中配]没人会教你的Minecraft转场技巧 - MinecraftMotion",
+      "url": "https://www.bilibili.com/video/BV1txfWBfExX",
+      "author": "环球游戏摸鱼社",
+      "published_at": "2026-02-25T05:33:11+08:00",
+      "duration_sec": 978,
+      "stats": {
+        "play": 6754
+      },
+      "category": "单机游戏",
+      "cover": "//i0.hdslb.com/bfs/archive/f7ecc40b9d6537582a807fca48ca36e1043d50c8.jpg",
+      "source_route": "ranked",
+      "matched_games": [],
+      "slot": "技法",
+      "freshness": "常青",
+      "labels": [
+        "适合学习"
+      ],
+      "quality_verified": true,
+      "days_old": 234,
+      "is_fresh": false,
+      "summary": "中配搬运 Minecraft 游戏转场技巧教程",
+      "basis": "标题含『没人会教你的Minecraft转场技巧』，标签含『游戏转场』『Minecraft编辑教程』，时长 978 秒，播放 6754",
+      "why": "可试试『没人会教你』这类反常识标题句式，套到鸣潮/星铁的游戏内转场教学上",
+      "feasible": "不确定",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV1ajhY6bEeG",
+      "origin": "search:game:pubdate",
+      "title": "【鸣潮/4𝑲】只是在DLSS5下走路的共鸣者们（第2篇）",
+      "url": "https://www.bilibili.com/video/BV1ajhY6bEeG",
+      "author": "黎雾雪绒",
+      "published_at": "2026-09-21T06:01:09+08:00",
+      "duration_sec": 59,
+      "stats": {
+        "play": 481
+      },
+      "category": "手机游戏",
+      "cover": "//i2.hdslb.com/bfs/archive/de8280bdb59154ba5a4bbdfc5d8acd627c4caeda.jpg",
+      "source_route": "temporal",
+      "matched_games": [
+        "鸣潮"
+      ],
+      "slot": "参考",
+      "freshness": "常青",
+      "labels": [
+        "创作参考"
+      ],
+      "quality_verified": false,
+      "days_old": 26,
+      "is_fresh": false,
+      "summary": "鸣潮4K画质角色走路展示，偏调色画质向",
+      "basis": "标题含『4𝑲』『DLSS5下走路』；标签『4K』『写实』『剪辑』；简介提『全局滤镜』『光追』；时长59秒",
+      "why": "画质/滤镜向内容可参考其调色思路，但依赖高端显卡，剪映端只能做近似滤镜",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": false
+    },
+    {
+      "id": "bili:BV1fs411Q78S",
+      "origin": "search:skill:totalrank",
+      "title": "【混剪】【战争】史上最棒的影视串烧（配Globus的Europa）",
+      "url": "https://www.bilibili.com/video/BV1fs411Q78S",
+      "author": "总捅达人",
+      "published_at": "2016-03-21T22:12:00+08:00",
+      "duration_sec": 242,
+      "stats": {
+        "play": 273155
+      },
+      "category": "影视剪辑",
+      "cover": "//i0.hdslb.com/bfs/archive/675badc47318aa2309fa37bcd829688ec1578c9c.jpg",
+      "source_route": "ranked",
+      "matched_games": [],
+      "slot": "参考",
+      "freshness": "常青",
+      "labels": [
+        "创作参考",
+        "可用素材"
+      ],
+      "quality_verified": true,
+      "days_old": 3861,
+      "is_fresh": false,
+      "summary": "用Globus的Europa串联近80部战争影视作品的燃向混剪。",
+      "basis": "标题含『混剪』『战争』『配Globus的Europa』，简介写『近80部影视作品剪辑而成』，标签挂『BGM』『燃向』，播放27.3万",
+      "why": "『单曲BGM+多素材串烧』是经典燃向结构，可试试先定BGM再按情绪段落分配素材，迁移到游戏混剪",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": true
+    },
+    {
+      "id": "bili:BV1G4411A7JS",
+      "origin": "search:skill:totalrank",
+      "title": "【金材昱】毛泰九个人燃向 | 极致变态",
+      "url": "https://www.bilibili.com/video/BV1G4411A7JS",
+      "author": "梳一个中分",
+      "published_at": "2019-07-04T18:16:32+08:00",
+      "duration_sec": 250,
+      "stats": {
+        "play": 242701
+      },
+      "category": "影视剪辑",
+      "cover": "//i0.hdslb.com/bfs/archive/5f62ece46f60bbddbedbe18362c8f36dbe624742.jpg",
+      "source_route": "ranked",
+      "matched_games": [],
+      "slot": "参考",
+      "freshness": "常青",
+      "labels": [
+        "创作参考"
+      ],
+      "quality_verified": true,
+      "days_old": 2662,
+      "is_fresh": false,
+      "summary": "韩剧角色毛泰九的暗黑燃向踩点个人向剪辑。",
+      "basis": "标题含『个人燃向』『极致变态』，标签挂『踩点』『暗黑』『百万剪辑师挑战』，播放24.3万，时长250秒",
+      "why": "『角色人设+情绪标签』的选题思路可迁移到游戏角色向踩点，可试试用暗色调统一全片氛围",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": true
+    },
+    {
+      "id": "bili:BV1eb4y197KP",
+      "origin": "search:skill:totalrank",
+      "title": "〔机车/混剪/燃向〕这里有属于你的梦想吗？",
+      "url": "https://www.bilibili.com/video/BV1eb4y197KP",
+      "author": "空守一座心城",
+      "published_at": "2021-03-13T22:51:09+08:00",
+      "duration_sec": 215,
+      "stats": {
+        "play": 166696
+      },
+      "category": "摩托车",
+      "cover": "//i0.hdslb.com/bfs/archive/a8d030f3f0b67cd7d9e7b9591af9d9cf35a2e9b5.jpg",
+      "source_route": "ranked",
+      "matched_games": [],
+      "slot": "参考",
+      "freshness": "常青",
+      "labels": [
+        "创作参考",
+        "可用素材"
+      ],
+      "quality_verified": true,
+      "days_old": 2043,
+      "is_fresh": false,
+      "summary": "机车题材燃向踩点混剪",
+      "basis": "标题『〔机车/混剪/燃向〕』，标签含『踩点』，简介注明BGM『Unstoppable - Sia』，时长215秒，播放16.7万",
+      "why": "非游戏题材的踩点混剪也可借鉴其选曲与节奏铺排，可参考用强节奏BGM统一多段素材的做法",
+      "feasible": "需要电脑",
+      "enriched_by": "llm",
+      "off_keyword": true
+    },
+    {
+      "id": "bili:BV14jep68EbH",
+      "origin": "search:skill:pubdate",
+      "title": "动画名场面 二维马匹动画制作的精细流畅技巧",
+      "url": "https://www.bilibili.com/video/BV14jep68EbH",
+      "author": "KeshiAI酱",
+      "published_at": "2026-09-15T21:28:26+08:00",
+      "duration_sec": 55,
+      "stats": {
+        "play": 179
+      },
+      "category": "动物综合",
+      "cover": "//i1.hdslb.com/bfs/archive/6e14e234d988cbbd07fad50eab144b5eaac8616e.jpg",
+      "source_route": "temporal",
+      "matched_games": [],
+      "slot": "参考",
+      "freshness": "常青",
+      "labels": [
+        "适合学习",
+        "创作参考"
+      ],
+      "quality_verified": false,
+      "days_old": 32,
+      "is_fresh": false,
+      "summary": "展示二维马匹动画的流畅动作制作技巧",
+      "basis": "标题含『二维马匹动画制作的精细流畅技巧』，标签含『动画混剪』『二次元』，时长 55 秒",
+      "why": "可参考其用『精细流畅』作标题卖点，二次元剪辑选题可强调动作衔接的流畅感",
+      "feasible": "不确定",
+      "enriched_by": "llm",
+      "off_keyword": true
+    },
+    {
+      "id": "bili:BV1knJX6MEtP",
+      "origin": "search:skill:pubdate",
+      "title": "如何应对快节奏。你是否刷？短视频停不下来。",
+      "url": "https://www.bilibili.com/video/BV1knJX6MEtP",
+      "author": "像海龟一样思考",
+      "published_at": "2026-10-16T18:17:11+08:00",
+      "duration_sec": 200,
+      "stats": {
+        "play": 131
+      },
+      "category": "日常",
+      "cover": "//i2.hdslb.com/bfs/archive/610394517749ff4dc9adb241dbc0342583c01da2.jpg",
+      "source_route": "temporal",
+      "matched_games": [],
+      "slot": "热点",
+      "freshness": "热点",
+      "labels": [
+        "适合学习"
+      ],
+      "quality_verified": false,
+      "days_old": 1,
+      "is_fresh": true,
+      "summary": "讨论如何应对快节奏短视频刷不停的现象。",
+      "basis": "标题含『如何应对快节奏』『短视频停不下来』，标签挂『生活记录』『学习』，时长200秒",
+      "why": "偏观点类内容，与游戏二创剪辑技法关联弱，可跳过或仅作节奏感知参考",
+      "feasible": "不确定",
+      "enriched_by": "llm",
+      "off_keyword": true
+    },
+    {
+      "id": "bili:BV1UZ421K79H",
+      "origin": "search:skill:pubdate",
+      "title": "没技巧，就是狂轰乱帅 | 绝地战警/燃向混剪 | Poker Face",
+      "url": "https://www.bilibili.com/video/BV1UZ421K79H",
+      "author": "是小水晶",
+      "published_at": "2024-07-05T16:55:41+08:00",
+      "duration_sec": 34,
+      "stats": {
+        "play": 1580
+      },
+      "category": "影视剪辑",
+      "cover": "//i0.hdslb.com/bfs/archive/53bc206803b52b129effe9296e4037a835e7b763.jpg",
+      "source_route": "temporal",
+      "matched_games": [],
+      "slot": "参考",
+      "freshness": "常青",
+      "labels": [
+        "适合学习",
+        "创作参考"
+      ],
+      "quality_verified": true,
+      "days_old": 834,
+      "is_fresh": false,
+      "summary": "绝地战警燃向混剪，配Poker Face。",
+      "basis": "标题含『燃向混剪』『Poker Face』，标签挂『电影剪辑』『名场面』，时长34秒",
+      "why": "影视燃剪的短时长高密度卡点可参考，迁移到游戏二创时可用同曲做角色名场面踩点",
+      "feasible": "手机剪映可做",
+      "enriched_by": "llm",
+      "off_keyword": true
+    }
+  ],
+  "trends": [
+    {
+      "id": "bili-trend:UP主手搓飞行滑板",
+      "source": "bilibili",
+      "kind": "trend",
+      "title": "UP主手搓飞行滑板",
+      "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E6%89%8B%E6%90%93%E9%A3%9E%E8%A1%8C%E6%BB%91%E6%9D%BF"
+    },
+    {
+      "id": "bili-trend:绝区零菲欧妮角色展示",
+      "source": "bilibili",
+      "kind": "trend",
+      "title": "绝区零菲欧妮角色展示",
+      "url": "https://search.bilibili.com/all?keyword=%E7%BB%9D%E5%8C%BA%E9%9B%B6%E8%8F%B2%E6%AC%A7%E5%A6%AE%E8%A7%92%E8%89%B2%E5%B1%95%E7%A4%BA"
+    }
+  ]
+}
