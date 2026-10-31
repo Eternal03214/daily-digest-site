@@ -1,0 +1,5 @@
+{
+  "built_at": "2026-10-31T23:50:16+08:00",
+  "digest_files": 28,
+  "note": "由 tools/build_site.py 生成，只包含前端资源与最终简报"
+}
