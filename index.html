@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<meta name="theme-color" content="#0e0f14">
+<meta name="description" content="二次元游戏剪辑的每日热点、技法与素材简报">
+<title>每日素材简报</title>
+<link rel="stylesheet" href="style.css">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icons/apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="素材简报">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="topbar-row">
+    <h1>每日素材简报</h1>
+    <button id="btn-settings" class="icon-btn" aria-label="设置">⚙</button>
+  </div>
+  <div class="tabs" id="date-tabs"></div>
+  <div class="tabs slot-tabs" id="slot-tabs"></div>
+  <div class="meta" id="meta"></div>
+  <div id="notice" class="notice hidden"></div>
+</header>
+
+<main id="feed" class="feed"></main>
+
+<div id="empty" class="empty hidden">
+  <p>这一批还没有内容。</p>
+  <p class="hint">定时任务每天 12:30 / 18:30 各生成一次。</p>
+</div>
+
+<aside id="settings" class="sheet hidden">
+  <div class="sheet-inner">
+    <div class="sheet-head">
+      <h2>设置</h2>
+      <button id="btn-close-settings" class="icon-btn" aria-label="关闭">✕</button>
+    </div>
+
+    <section>
+      <h3>关键词与投喂</h3>
+      <p class="hint">
+        关键词决定抓什么。提交后从下一批开始生效；晚上提交则次日中午生效。<br>
+        同一篇里可以贴 B站链接——链接后面的文字会成为那条视频的备注。
+      </p>
+      <a id="link-keyword" class="btn primary" target="_blank" rel="noopener">写关键词 / 投喂链接 →</a>
+      <p class="hint" style="margin-top:10px">
+        关键词不会显示在本页：这个页面是公开可访问的，
+        而关键词存在私有仓库里，只有你自己看得到。
+      </p>
+    </section>
+
+    <section>
+      <h3>反馈状态</h3>
+      <p class="hint">反馈只存在这台手机里，不同步到云端。换手机时导出再导入即可搬过去。</p>
+      <div class="stat-row" id="fb-stats"></div>
+      <div id="blocked-info" class="kw-box" style="display:none"></div>
+      <button id="btn-export" class="btn">导出反馈 JSON</button>
+      <button id="btn-import" class="btn">导入反馈 JSON</button>
+      <input type="file" id="file-import" accept="application/json,.json" hidden>
+      <button id="btn-clear" class="btn danger">清空全部反馈</button>
+    </section>
+
+    <section>
+      <h3>显示</h3>
+      <label class="switch">
+        <input type="checkbox" id="opt-hide-done">
+        <span>隐藏已处理的卡片</span>
+      </label>
+      <label class="switch">
+        <input type="checkbox" id="opt-compact">
+        <span>紧凑模式</span>
+      </label>
+      <p class="hint" style="margin-top:8px">
+        标记「太老」「已看过」后，卡片会移出并从备选池自动补一条新的上来。
+        打开上面的开关可以看到已处理的那些，再点一次按钮即可撤销。
+      </p>
+    </section>
+
+    <p class="ver" id="ver"></p>
+  </div>
+</aside>
+
+<div id="toast" class="toast hidden"></div>
+
+<script src="app.js"></script>
+</body>
+</html>
